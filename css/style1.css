@@ -18,8 +18,8 @@ body {
     align-items: center;
     min-height: 100vh;
     background: var(--background-color);
-    /*font-family: 'aguafina-script', cursive, sans-serif;*/
-	font-family: 'Special Elite', cursive, sans-serif;
+    font-family: 'allura', cursive, sans-serif;
+	/*font-family: 'Special Elite', cursive, sans-serif;*/
     color: var(--text-color);
     overflow-x: hidden;
 }
