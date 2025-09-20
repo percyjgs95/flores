@@ -6,14 +6,14 @@ document.addEventListener('DOMContentLoaded', function() {
 
     /* MODIFICAR: El mensaje de la carta */
     const text = "Para una personita muy especial,\n\n" +
-        "La chica mas guapa, talentosa, alegre, carismatica, soñadora, con una risa que enamora, labios cautivadores, los mejores temas de conversacion, con las mejores historias, ojitos sinceros, cabellera inolvidable, un corazocito que apesar de haber sufrido sigue siendo bondadoso.\n\n" + 
+        "La chica mas guapa, talentosa, alegre, carismatica, soñadora, con una risa que enamora, labios cautivadores, los mejores temas de conversacion, con las mejores historias, ojitos sinceros, cabellera admirable, con un corazocito que apesar de haber sufrido sigue siendo bondadoso.\n\n" + 
 		  "Eres para mi todo eso y mucho mas, me diste felicidad cuando crei no merecerlo, me diste de los mejores recuerdos de mi vida,  eres un amor de persona, mereces ser feliz Lupita, muy muy feliz.\n\n" +
         "Le doy gracias a Dios por permitirme haberte conocido, hoy de corazon deseo que seas feliz.\n\n"  +
 		"Deseo que puedas siempre sonreir, te quiero mucho Lupita.,\n" +
         "Ese lugarcito que creaste en mi corazon siempre sera tuyo. ❤️️";
 
     /* MODIFICAR: Velocidad de escritura */
-    const typingSpeed = 45;
+    const typingSpeed = 40;
 
     const heartPathLength = heartPath.getTotalLength();
     heartPath.style.strokeDasharray = heartPathLength;
