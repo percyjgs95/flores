@@ -18,8 +18,7 @@ body {
     align-items: center;
     min-height: 100vh;
     background: var(--background-color);
-    font-family: 'aguafina-script';
-    /*font-family: 'aguafina-script', cursive, sans-serif;*/
+    font-family: 'aguafina-script', cursive, sans-serif;
 	/*font-family: 'Special Elite', cursive, sans-serif;*/
     color: var(--text-color);
     overflow-x: hidden;
@@ -154,8 +153,8 @@ body {
 }
 
 #heart-text {
-    /*font-family: 'Special Elite', cursive, sans-serif;*/
-	font-family: 'allura', cursive, sans-serif;
+    font-family: 'Special Elite', cursive, sans-serif;
+	/*font-family: 'allura', cursive, sans-serif;*/
     font-size: 15px;
     fill: #fff;
     text-shadow: 0 0 4px #fff, 0 0 10px var(--neon-color);
