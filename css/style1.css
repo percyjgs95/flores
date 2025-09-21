@@ -152,8 +152,8 @@ body {
     transition: stroke-dashoffset 0.1s linear;
 }
 
-#heart-text {
-    font-family:aguafina-script, cursive, sans-serif;
+#heart-text {	
+	font-family: aguafina-script, cursive, sans-serif;
     font-size: 15px;
     fill: #fff;
     text-shadow: 0 0 4px #fff, 0 0 10px var(--neon-color);
