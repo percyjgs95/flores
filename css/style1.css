@@ -18,7 +18,8 @@ body {
     align-items: center;
     min-height: 100vh;
     background: var(--background-color);
-	font-family: butterfly-kids,cursive, sans-serif;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "serif";
+	/*font-family: butterfly-kids,cursive, sans-serif;*/
 	/*font-family: 'Special Elite', cursive, sans-serif;*/
     color: var(--text-color);
     overflow-x: hidden;
@@ -153,7 +154,8 @@ body {
 }
 
 #heart-text {	
-	font-family: crafty-girls, cursive, sans-serif;
+	/*font-family: crafty-girls, cursive, sans-serif;*/
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "serif";
     font-size: 15px;
     fill: #fff;
     text-shadow: 0 0 4px #fff, 0 0 10px var(--neon-color);
