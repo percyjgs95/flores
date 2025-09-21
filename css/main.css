@@ -41,9 +41,7 @@ body {
 }
 .titulo {
   margin-bottom: 180px;
-  /*font-family: "Arial Narrow", Arial, sans-serif;*/
-  /*font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";*/
-	font-family: 'dancing-script';
+  font-family: "Arial Narrow", Arial, sans-serif;
 	
   color: yellow;
   position: absolute;
